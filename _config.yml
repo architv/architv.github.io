@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Archit's blog
+tagline:          ''
+description:      'A personal blog by Archit'
+url:              http://architv.me
+
+author:
+  name:           'Archit Verma'
+  url:            https://quora.com/Archit-Verma-1
+
+paginate:         5
+
+# Custom vars
+# version:          2.0.0
+
+github:
+  repo:           https://github.com/architv/blog
+
+pages_list:       
+  About: '/home'
+  Archive: '/archive'
