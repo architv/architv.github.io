@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Archit's blog
 tagline:          ''
 description:      'A personal blog by Archit'
-url:              http://architv.me/blog/
+url:              http://architv.me
 
 author:
   name:           'Archit Verma'
@@ -25,4 +25,4 @@ github:
 
 pages_list:       
   About: '/home'
-  Archive: '/blog/archive'
+  Archive: '/archive'
