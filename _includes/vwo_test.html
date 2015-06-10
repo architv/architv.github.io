@@ -35,9 +35,8 @@ function testVWO(callback) {
 });
 }
 
-function printVisData(data) {
-    console.log(data);
-}
 
-testVWO(printVisData);
+testVWO(function(data) {
+    console.log(data);
+});
 </script>
