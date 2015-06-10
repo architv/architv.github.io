@@ -19,9 +19,8 @@ _vis_opt_queue.push(function() {
             // Use the _vis_data object created above to fetch the data, 
             // key of the object is the Test ID and the value is Variation Name
             if(_vis_counter) _kmq.push(['set', _vis_data]);
-            console.log(_vis_data);
-            console.log(_vis_combination);
-            console.log(_vis_exp);
+            console.log(_vis_data['VWO-Test-ID-'+_vis_id]);
+            // console.log(_vis_combination);
         }
         // console.log(_vis_counter);
         // console.log(_vis_opt_queue);
