@@ -1,5 +1,5 @@
 <script type="text/javascript">
-var _vis_opt_queue = window._vis_opt_queue || [], _vis_counter = 0, _kmq = _kmq || [];
+var _vis_opt_queue = window._vis_opt_queue || [], _vis_counter = 0;
 _vis_opt_queue.push(function() {
 try {
     console.log("yo");
@@ -28,8 +28,8 @@ try {
             // 'VarName': _vwo_exp[_vis_id].comb_n[_vis_combination],
         };
         console.log(dimension);
-        ga('set', 'dimension1', 'CampId': _vis_id);
-        ga('send', 'pageview', 'CampId': _vis_id);
+        ga('set', 'dimension1', dimension);
+        ga('send', 'pageview', dimension);
     }
 }
         // console.log(_vis_combination);
