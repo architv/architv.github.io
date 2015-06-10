@@ -20,7 +20,7 @@ function testVWO(callback) {
                     }
                 }
                 ga('set', 'dimension1', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
-                // ga('send', 'pageview', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
+                ga('send', 'pageview', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
                 callback('CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
             }
         }
@@ -30,11 +30,9 @@ function testVWO(callback) {
     });
 }
 
-function getData() {
-    testVWO(function(data) {
-        console.log(data);
-        ga('send', 'pageview', data)
-    });
+function getData(data) {
+    console.log(data);
+        // ga('send', 'pageview', data)
 }
-getData();
+testVWO(getData);
 </script>
