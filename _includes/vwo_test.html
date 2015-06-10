@@ -1,7 +1,7 @@
 <script type="text/javascript">
 function testVWO(callback) {
     var _vis_opt_queue = window._vis_opt_queue || [], _vis_counter = 0;
-    _vis_opt_queue.push(function(callback) {
+    _vis_opt_queue.push(function() {
         try {
             console.log("yo");
             if(!_vis_counter) {
