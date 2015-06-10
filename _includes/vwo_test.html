@@ -1,7 +1,7 @@
 <script type="text/javascript">
-function testVWO(callback) {
+
     var _vis_opt_queue = window._vis_opt_queue || [], _vis_counter = 0;
-    _vis_opt_queue.push(function() {
+    var getData = function(callback) {
         try {
             console.log("yo");
             if(!_vis_counter) {
@@ -19,20 +19,22 @@ function testVWO(callback) {
                         }
                     }
                 }
-                ga('set', 'dimension1', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
-                ga('send', 'pageview', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
-                callback('CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
+                var campIdString = 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination];
+                // ga('set', 'dimension1', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
+                // ga('send', 'pageview', 'CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
+                // callback('CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
             }
+            callback('CampId:'+ _vis_id + ', ' + 'VarName:' + _vwo_exp[_vis_id].comb_n[_vis_combination]);
         }
         catch(err) {
             console.log("error");
         };
     });
-}
+    
+    var setData = function(data) {
+        ga('set', 'dimension1', data);
+        ga('send', 'pageview', data);
+    }
 
-function getData(data) {
-    console.log(data);
-        // ga('send', 'pageview', data)
-}
-testVWO(getData);
+    _vis_opt_queue.push(getData(setData));
 </script>
