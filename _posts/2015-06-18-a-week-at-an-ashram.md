@@ -27,7 +27,7 @@ Another core principle of SPIC MACAY is volunteerism or 'Nishkam Seva'. This was
 - __India's diversity__:
 I've known since I was taught in my childhood that India is a diverse country. But only when I participated in the convention, did I realise it. I met people from Orrisa, Chattisgarh, Kerala, Rajasthan, Assam, Punjab, and almost every state. What I believe  remarkable is that we are all so different, yet we all peacefully live in the same country. Strange thing though is that even though we have 29 languages* of our own, we are connected by a foreign language.
 
-Besides all the above, the overall experience was great, peaceful and provided a unique positive environment that helps us all bring out the creativity that lies dormant within us. 
+Besides all the above, the overall experience was great, peaceful and provided a unique positive environment that helps one bring out the creativity that lies dormant within them. 
 
 **Languages that are spoken by more than a million people. See [wikipedia](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers_in_India#More_than_one_million_speakers).* 
 
