@@ -10,7 +10,7 @@ permalink: a-week-at-an-ashram
 
 Recently I had a chance to experience an ashram like setting at the SPIC MACAY's annual convention in IIT Bombay. I haven't been associated with SPIC MACAY for long and was made aware about it by a friend. The idea of the convention is to disconnect from the outside world for a week and connect with your inner self. Since the timing of the convention coincided with the end of my semester, I decided to participate in it.
 
-Despite not being related to any art form, I took away a lot away with me from the seven day convention:
+Despite not being related to any art form, I took away a lot with me from the seven day convention:
 
 - __Connecting with your self__:
 In a world where we are connected 24/7 with everyone via the internet, this was a welcome change. During the entire week I didn't feel the need to get online. The only people I was connected to were in my immediate surroundings. This solitude was a great time for self introspection and connecting with your own thoughts.
