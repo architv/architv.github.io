@@ -30,3 +30,5 @@ I've known since I was taught in my childhood that India is a diverse country. B
 Besides all the above, the overall experience was great, peaceful and provided a unique positive environment that helps us all bring out the creativity that lies dormant within us. 
 
 **Languages that are spoken by more than a million people. See [wikipedia](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers_in_India#More_than_one_million_speakers).* 
+
+{% include twitter_plug.html %}
