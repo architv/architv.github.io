@@ -13,13 +13,13 @@ Recently I had a chance to experience an ashram like setting at the SPIC MACAY's
 Despite not being related to any art form, I took away a lot with me from the seven day convention:
 
 - __Connecting with your self__:
-In a world where we are connected 24/7 with everyone via the internet, this was a welcome change. During the entire week I didn't feel the need to get online. The only people I was connected to were in my immediate surroundings. This solitude was a great time for self introspection and connecting with your own thoughts.
+In a world where we are connected 24/7 with everyone via the internet, this was a welcome change. During the entire week I didn't feel the need to get online. The only people I was connected to were in my immediate surroundings. This solitude was a great time for self introspection and connecting with our own thoughts.
 
 - __The creative side__:
 In the convention we were required to participate in an intensive which could be any of the crafts, dance or music. I chose painting. It helped me bring out my creative side. It also made me realise how art is necessary to strike a balance between the creative and the cognitive part of the brain.
 
 - __The ashram lifestyle__:
-The schedule was very rigorous. We were supposed to get up at 3.30 am for yoga, which meant no late nighters. The three hour yoga session in the morning kickstarted the day on a positive vibe. Also, the holistic food that we had made me realise how healthy and balanced meals can set you up for the whole day.
+The schedule was very rigorous. We were supposed to get up at 3.30 am for yoga, which meant no late nighters. The three hour yoga session in the morning kickstarted the day on a positive vibe. Also, the holistic food that we had made me realise how healthy and balanced meals can set us up for the whole day.
 
 - __The idea of volunteerism__:
 Another core principle of SPIC MACAY is volunteerism or 'Nishkam Seva'. This was very much evident as the whole event was organised by volunteers. Infact, anyone who joins SPIC MACAY becomes a volunteer. The idea of volunteerism is so powerful, yet very few people realise it. Only if we all volunteer for the betterment of the society, can we bring "achche din" for ourselves.
