@@ -22,7 +22,7 @@ In the convention we were required to participate in an intensive which could be
 The schedule was very rigorous. We were supposed to get up at 3.30 am for yoga, which meant no late nighters. The three hour yoga session in the morning kickstarted the day on a positive vibe. Also, the holistic food that we had made me realise how healthy and balanced meals can set us up for the whole day.
 
 - __The idea of volunteerism__:
-Another core principle of SPIC MACAY is volunteerism or 'Nishkam Seva'. This was very much evident as the whole event was organised by volunteers. Infact, anyone who joins SPIC MACAY becomes a volunteer. The idea of volunteerism is so powerful, yet very few people realise it. Only if we all volunteer for the betterment of the society, can we bring "achche din" for ourselves.
+Another core principle of SPIC MACAY is volunteerism or 'Nishkaam Seva'. This was very much evident as the whole event was organised by volunteers. Infact, anyone who joins SPIC MACAY becomes a volunteer. The idea of volunteerism is so powerful, yet very few people realise it. Only if we all volunteer for the betterment of the society, can we bring "achche din" for ourselves.
 
 - __India's diversity__:
 I've known since I was taught in my childhood that India is a diverse country. But only when I participated in the convention, did I realise it. I met people from Orrisa, Chattisgarh, Kerala, Rajasthan, Assam, Punjab, and almost every state. What I believe  remarkable is that we are all so different, yet we all peacefully live in the same country. Strange thing though is that even though we have 29 languages* of our own, we are connected by a foreign language.
