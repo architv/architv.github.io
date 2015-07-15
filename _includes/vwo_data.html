@@ -1,65 +1,66 @@
 <script type="text/javascript">
-var get_campaigns_data = function (callback,vis_id) {
+// var get_campaigns_data = function (callback,vis_id) {
   var _vis_opt_queue = window._vis_opt_queue || [],_vis_counter = 0;
-  _vis_opt_queue.push(function () {
-    try {
-      if (!_vis_counter) {
-        var _vis_data = [],_vis_combination,_vis_id,_vis_l = 0;
-        var bool = false;
-        for (; _vis_l < _vwo_exp_ids.length; _vis_l++) {
-          _vis_id = _vwo_exp_ids[_vis_l];
-          if (typeof (vis_id) != 'undefined') {
-            _vis_id = vis_id;
-            bool = true;
-          }
-          if (_vwo_exp[_vis_id].ready) {
-            _vis_combination = _vis_opt_readCookie('_vis_opt_exp_' + _vis_id + '_combi');
-            if (typeof (_vwo_exp[_vis_id].combination_chosen) != 'undefined')
-            _vis_combination = _vwo_exp[_vis_id].combination_chosen;
-            if (typeof (_vwo_exp[_vis_id].comb_n[_vis_combination]) != 'undefined') {
+  console.log(_vis_opt_queue);
+  // _vis_opt_queue.push(function () {
+  //   try {
+  //     if (!_vis_counter) {
+  //       var _vis_data = [],_vis_combination,_vis_id,_vis_l = 0;
+  //       var bool = false;
+  //       for (; _vis_l < _vwo_exp_ids.length; _vis_l++) {
+  //         _vis_id = _vwo_exp_ids[_vis_l];
+  //         if (typeof (vis_id) != 'undefined') {
+  //           _vis_id = vis_id;
+  //           bool = true;
+  //         }
+  //         if (_vwo_exp[_vis_id].ready) {
+  //           _vis_combination = _vis_opt_readCookie('_vis_opt_exp_' + _vis_id + '_combi');
+  //           if (typeof (_vwo_exp[_vis_id].combination_chosen) != 'undefined')
+  //           _vis_combination = _vwo_exp[_vis_id].combination_chosen;
+  //           if (typeof (_vwo_exp[_vis_id].comb_n[_vis_combination]) != 'undefined') {
               
-              _vis_data.push({
-                id: _vis_id,
-                name: _vwo_exp[_vis_id].name,
-                type: _vwo_exp[_vis_id].type,
-                combination_chosen: _vwo_exp[_vis_id].comb_n[_vis_combination]
-              });
-              _vis_counter++;
-              if (bool) {
-                break;
-              }
-            }
-          }
-        }
-        // Use the _vis_data object created above to fetch the data,
-        // key of the object is the Test ID and the value is Variation Name
-      }
-      if(_vis_counter){
-        callback && callback(_vis_data);
-      }
-    } 
-    catch (err) {
-    };
-  });
-}
+  //             _vis_data.push({
+  //               id: _vis_id,
+  //               name: _vwo_exp[_vis_id].name,
+  //               type: _vwo_exp[_vis_id].type,
+  //               combination_chosen: _vwo_exp[_vis_id].comb_n[_vis_combination]
+  //             });
+  //             _vis_counter++;
+  //             if (bool) {
+  //               break;
+  //             }
+  //           }
+  //         }
+  //       }
+  //       // Use the _vis_data object created above to fetch the data,
+  //       // key of the object is the Test ID and the value is Variation Name
+  //     }
+  //     if(_vis_counter){
+  //       callback && callback(_vis_data);
+  //     }
+  //   } 
+  //   catch (err) {
+  //   };
+  // });
+// }
 
-var call_hs = function(_vis_data){
-  var _vis_l=0;
-  for(;_vis_l < _vis_data.length;_vis_l++) {
-    var _vis_id = _vis_data[_vis_l].id, _combination_chosen = _vis_data[_vis_l].combination_chosen ;
-    var _hsq = window._hsq || [];
-   _hsq.push(["identify",{
-                vwo_campaign_data : 'CampID:' + _vis_id + ', ' + 'VarName:' + _combination_chosen
-            }]);
-    console.log(_vis_id,_combination_chosen);
-    _hsq.push(function(t) {
-        //change this to EVENT_ID
-        t.trackEvent({ id: "000000304684", value: null });
-    });
+// var call_hs = function(_vis_data){
+  // var _vis_l=0;
+  // for(;_vis_l < _vis_data.length;_vis_l++) {
+  //   var _vis_id = _vis_data[_vis_l].id, _combination_chosen = _vis_data[_vis_l].combination_chosen ;
+  //   var _hsq = window._hsq || [];
+  //  _hsq.push(["identify",{
+  //               vwo_campaign_data : 'CampID:' + _vis_id + ', ' + 'VarName:' + _combination_chosen
+  //           }]);
+  //   console.log(_vis_id,_combination_chosen);
+    // _hsq.push(function(t) {
+    //     //change this to EVENT_ID
+    //     t.trackEvent({ id: "000000304684", value: null });
+    // });
   }  
-}
+// }
 
-_hsq.push(function(t) {
-   get_campaigns_data(call_hs);
-});
-</script>
+// _hsq.push(function(t) {
+//    get_campaigns_data(call_hs);
+// });
+</script> 
