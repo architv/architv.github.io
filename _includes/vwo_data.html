@@ -54,18 +54,22 @@ var get_campaigns_data = function (callback,vis_id) {
 }
 var call_hs = function(_vis_data){
   var _vis_l=0;
-  var data = _vis_data;
-  for(;_vis_l < _vis_data.length;_vis_l++) {
-    var _vis_id = _vis_data[_vis_l].id, _combination_chosen = _vis_data[_vis_l].combination_chosen ;
-    console.log(_vis_id,_combination_chosen);
-  }
+  // var data = _vis_data;
+  var __ctm_cvars = __ctm_cvars || [];
+  (window.__ctm_loaded = (window.__ctm_loaded || [])).push(function() {
+    for(;_vis_l < _vis_data.length;_vis_l++) {
+
+      __ctm_cvars.push({
+        _vwo_id: _vis_data[_vis_l].id,
+        name: _vis_data[_vis_l].name,
+        type: _vis_data[_vis_l].type,
+        combination_chosen: _vis_data[_vis_l].combination_chosen,
+        goals: _vis_data[_vis_l].goals
+      });
+    }
+  });
   console.log("data:");
-  console.log(data);
-  return data;  
+  console.log(__ctm_cvars);
 }
 
-
-var data = get_campaigns_data(call_hs);
-console.log("main data: ");
-console.log(data);
 </script> 
