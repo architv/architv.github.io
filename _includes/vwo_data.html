@@ -53,7 +53,10 @@ var get_campaigns_data = function (callback,vis_id) {
 }
 var call_hs = function(_vis_data){
   var _vis_l=0;
-  return _vis_data;
+  for(;_vis_l < _vis_data.length;_vis_l++) {
+    var _vis_id = _vis_data[_vis_l].id, _combination_chosen = _vis_data[_vis_l].combination_chosen ;
+    console.log(_vis_id,_combination_chosen);
+  }  
 }
 
 
