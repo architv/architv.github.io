@@ -23,8 +23,8 @@ var get_campaigns_data = function (callback,vis_id) {
             console.log('combination_chosen' + _vis_combination)
             if (typeof (_vwo_exp[_vis_id].combination_chosen) != 'undefined')
             _vis_combination = _vwo_exp[_vis_id].combination_chosen;
-            if (typeof (_vwo_exp[_vis_id].comb_n[_vis_combination - 1]) != 'undefined') {
-              
+            if (typeof (_vwo_exp[_vis_id].comb_n[_vis_combination - 2]) != 'undefined') {
+              console.log("yo");
               _vis_data.push({
                 id: _vis_id,
                 name: _vwo_exp[_vis_id].name,
