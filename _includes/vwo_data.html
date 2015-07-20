@@ -4,6 +4,7 @@ var get_campaigns_data = function (callback,vis_id) {
   var _vis_counter = 0;
   // console.log(_vis_opt_queue);
   console.log('hello');
+  _vis_opt_queue.push(function() {alert("1");});
   _vis_opt_queue.push(function () {
     try {
       if (!_vis_counter) {
