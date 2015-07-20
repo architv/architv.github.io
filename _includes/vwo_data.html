@@ -6,7 +6,9 @@ var get_campaigns_data = function (callback,vis_id) {
   console.log('hello');
   _vis_opt_queue.push(function () {
     try {
+      console.log("enters try");
       if (!_vis_counter) {
+        console.log("enters if");
         // console.log('hello' + _vis_counter);
         var _vis_data = [],_vis_combination,_vis_id,_vis_l = 0;
         var bool = false;
