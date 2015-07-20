@@ -47,11 +47,11 @@ var get_campaigns_data = function (callback,vis_id) {
       if(_vis_counter){
         callback && callback(_vis_data);
       }
-    } 
+    }
     catch (err) {
     };
   });
-  // console.log(_vis_opt_queue);
+  console.log(_vis_opt_queue);
 }
 var call_hs = function(_vis_data){
   var _vis_l=0;
