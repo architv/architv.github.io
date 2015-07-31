@@ -5,7 +5,7 @@ comments: True
 permalink: a-week-at-an-ashram
 ---
 
-> Who looks outside dreams, who looks inside awakes
+> Who looks outside dreams, who looks inside awakens
 > - Carl Jung
 
 Recently I had a chance to experience an ashram like setting at the SPIC MACAY's annual convention at IIT Bombay. I haven't been associated with SPIC MACAY for long and was made aware about it by a friend. The idea of the convention is to disconnect from the outside world for a week and connect with your inner self. Since the timing of the convention coincided with the end of my semester, I decided to participate in it.<!--more-->
