@@ -6,11 +6,11 @@ title: About
 
 Hey there! My name is Archit Verma.
 
-I am a <strong>software developer</strong> with a knack for <strong>entrepreneurship</strong>. In my free time, I like to build cool things that should exist but don't.
+I'm a <strong>software developer</strong> with a knack for <strong>entrepreneurship</strong>. In my free time, I like to build cool things that should exist but don't.
 
-I'm an electronics engineering undergraduate at <a href="http://dce.edu/"><strong>Delhi Technological University (Formerly Delhi College Of Engineering)</strong></a>.
+Currently I'm an electronics engineering undergraduate at <a href="http://dce.edu/"><strong>Delhi Technological University (Formerly Delhi College Of Engineering)</strong></a>.
 
-I've worked at a few places including Wingify, MyPoolin and Veddis Labs. I've also developed few of projects which are currently live. Here's my [resume](https://drive.google.com/file/d/0B8YVwnKTNrUJUlo2VTR6UmdtelE/view?usp=sharing) and [projects](/projects/).
+I've worked at a few places including Wingify, MyPoolin and Veddis Labs. I've also developed a few projects which are currently live. Here's my [resume](https://drive.google.com/file/d/0B8YVwnKTNrUJUlo2VTR6UmdtelE/view?usp=sharing) and [projects](/projects/).
 
 When I am not coding, I like to <i class="fa fa-book"></i> read, <i class="fa fa-pencil"></i> [write](/), <i class="fa fa-futbol-o"></i> play football and very occasionaly <i class="fa fa-paint-brush"></i> paint or do crafts.
 
