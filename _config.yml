@@ -19,7 +19,7 @@ paginate:         5
 
 # Custom vars
 # version:          2.0.0
-excerpt_separator: "<!--more-->"
+excerpt_separator: "<!-- more -->"
 
 github:
   repo:           https://github.com/architv/blog
