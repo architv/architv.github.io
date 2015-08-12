@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startups vs Mid Size companies: My take
+title: Startups vs Mid Size companies - My take
 comments: True
 permalink: startups-vs-mid-size-companies-my-take
 ---

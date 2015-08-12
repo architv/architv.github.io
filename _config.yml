@@ -27,3 +27,7 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
+
+collections:
+  - work
+  - projects
