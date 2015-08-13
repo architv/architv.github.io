@@ -5,7 +5,7 @@ comments: True
 permalink: startups-vs-mid-size-companies-my-take
 ---
 
-I recently completed my internship at a mid size company and having interned at two startups before, it puts me an interesting position to compare the two. Both have their charms and their cracks. This is not to say that one is better over the other.<!--more--> So here are few dimension which I would like to compare them on: 
+I recently completed my internship at a mid size company and having interned at two startups before, it puts me an interesting position to compare the two. Both have their charms and their cracks. This is not to say that one is better over the other.<!--more--> So here are few dimensions which I would like to compare them on: 
 
 - __Fitting in__:
 This is the first thing every new employee wants. When you work for an early stage startup, there are not more than 4-5 people and each one know everyone else, so fitting in is not really an issue. The situation in a mid size company, on the other hand, is similar situation to arriving at a party where you don't know anyone. The natural instinct is to think this is a big group of friends having an awesome time and everyone is engaged so you really have no one to strike up a conversation with. Once you look past the surface you realize there are a bunch of pairwise and disjoint conversations and probably most people aren't friends<small>[1]</small>.
