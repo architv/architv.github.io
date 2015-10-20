@@ -52,6 +52,8 @@ It was on Vietnam's hackernews too!
 
 The plan was not to create the next trending repo (even if it were, it would have been fine). it was to solve a problem that I myself was experiencing.
 
+***
+
 ## How?
 
 There were three basic things which were used to create soccer-cli:
@@ -72,6 +74,8 @@ Since the tool was entirely command line, I needed an easy way to get and parse 
 
 > Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box.
 > It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
+
+***
 
 ## End
 
