@@ -7,7 +7,9 @@ permalink: viral-cli-app
 
 <img src="http://i.imgur.com/gJVJE0V.png?1" alt="trending image" style="width:100%;height:auto;">
 
-Sunday Evening, I am working on my laptop while Barclays Premier League commentry is playing in the background. I am trying to do two things simulataneuosly but I am able to do none <!--more-->. Since the work has to be done urgently, I switch off the TV. But now, I am constantly switching between my terminal and browser to check the scores, afterall it's Manchester United who is playing.
+Sunday Evening, I am working on my laptop while Barclays Premier League commentry is playing in the background. I am trying to do two things simulataneuosly but I am able to do none.<!--more--> 
+
+Since the work has to be done urgently, I switch off the TV. But now, I am constantly switching between my terminal and browser to check the scores, afterall it's Manchester United who is playing.
 
 This has happened to me dozens of time and every time I wish I didn't have to leave my terminal to check the scores. As a developer, my job is to find the solution. It was then the idea of soccer cli came to me.
 
@@ -44,7 +46,9 @@ There were basic things which were used to create soccer-cli:
 
 __Football API__
 
-The first task was to get the football scores. After a bit of looking for it, I stumbled across Joe Kampschmidt's [awesome curation](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/#openfooty) of all the source for getting data. Since, I had no intention to pay for the API, I looked for the fre ones. I tried both [openfooty API](http://www.footytube.com/openfooty/) and [football-data API](http://api.football-data.org/index). Openfooty API had a stale community and it was hard to get an API key. football-data API on the other hand, had a good documentation, easy to get an API key and scores were updated fast enough to match my needs. So, I went ahead with it.
+The first task was to get the football scores. After a bit of looking for it, I stumbled across Joe Kampschmidt's [awesome curation](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/#openfooty) of all the source for getting data. 
+
+Since, I had no intention to pay for the API, I looked for the fre ones. I tried both [openfooty API](http://www.footytube.com/openfooty/) and [football-data API](http://api.football-data.org/index). Openfooty API had a stale community and it was hard to get an API key. football-data API on the other hand, had a good documentation, easy to get an API key and scores were updated fast enough to match my needs. So, I went ahead with it.
 
 __Live Scores__
 
