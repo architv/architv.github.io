@@ -2,7 +2,7 @@
 layout: post
 title: Soccer CLI - How a simple CLI app went viral
 comments: True
-desc: "Command line interface for all football scores. It's football for hackers"
+desc: Command line interface for all football scores. It's football for hackers
 image: http://i.imgur.com/gJVJE0V.png
 permalink: viral-cli-app
 keywords: "cli, linux, python, football, soccer, open source, Archit Verma, app"
@@ -10,7 +10,7 @@ keywords: "cli, linux, python, football, soccer, open source, Archit Verma, app"
 
 <img src="http://i.imgur.com/gJVJE0V.png?1" alt="trending image" style="width:100%;height:auto;">
 
-Sunday Evening, I am working on my laptop while Barclays Premier League commentary is playing in the background. I am trying to do two things simultaneously but I am able to do none.<!--more--> 
+Sunday evening, I am working on my laptop while Barclays Premier League commentary is playing in the background. I am trying to do two things simultaneously but I am able to do none.<!--more--> 
 
 Since the work has to be done urgently, I switch off the TV. But now, I am constantly switching between my terminal and browser to check the scores, after all it's Manchester United who is playing.
 
