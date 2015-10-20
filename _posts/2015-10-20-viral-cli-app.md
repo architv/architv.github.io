@@ -20,10 +20,10 @@ This has happened to me dozens of time and every time I wish I didn't have to le
 
 It's been more than a month since I "launched" soccer cli and it got:
 
-- close to 250 stars on github
-- number 1 trending python repo on Github
-- over 25k downloads on PyPi
-- many more happy and productive football fans
+- Close to 250 stars on [Github](https://github.com/architv/soccer-cli)
+- Number 1 trending python repo on Github
+- Over 25k downloads on [PyPi](https://pypi.python.org/pypi/soccer-cli)
+- Many more happy and productive football fans
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/architv07">@architv07</a> I love your soccer-cli 😂 found on <a href="https://twitter.com/githuntio">@githuntio</a></p>&mdash; EGOIST (@egoistgogo) <a href="https://twitter.com/egoistgogo/status/640824213696155648">September 7, 2015</a></blockquote>
@@ -41,7 +41,7 @@ It even made it's way to [Pycoders weekly newsletter](http://pycoders.com/)
 It was on Vietnam's hackernews too!
 <img src="http://i.imgur.com/DHs6FjI.png" alt="vietnam image" style="width:100%;height:auto;">
 
-The plan was not to create the next trending repo (even if it were, it would have been fine). it was to solve a problem that I myself was experiencing
+The plan was not to create the next trending repo (even if it were, it would have been fine). it was to solve a problem that I myself was experiencing.
 
 ## How?
 
