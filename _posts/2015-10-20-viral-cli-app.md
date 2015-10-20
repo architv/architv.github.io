@@ -32,7 +32,7 @@ It's been more than a month since I "launched" soccer cli and it got:
 <blockquote class="twitter-tweet" lang="en"><p lang="es" dir="ltr">sudo pip install soccer-cli; soccer --league=LLIGA. Aun hay gente que sabe hacer programas DE VERDAD.</p>&mdash; Raul Herranz (@rahego_) <a href="https://twitter.com/rahego_/status/639714442759008256">September 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*Translation: sudo pip install soccer-cli; soccer - league = League. There are still people who know how to REALLY program.*
+*Translation: sudo pip install soccer-cli; soccer --league=LLIGA. There are still people who know how to REALLY program.*
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Soccer scores from the command line. Brilliant.&#10;<a href="https://t.co/vzloPoQsRC">https://t.co/vzloPoQsRC</a></p>&mdash; Jon Crowell (@jonrcrowell) <a href="https://twitter.com/jonrcrowell/status/639102520648822784">September 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
