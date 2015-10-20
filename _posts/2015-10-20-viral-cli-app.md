@@ -49,7 +49,7 @@ There were three basic things which were used to create soccer-cli:
 
 __Football API__
 
-The first task was to get the football scores. After a bit of looking for it, I stumbled across Joe Kampschmidt's [awesome curation](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/#openfooty) of all the source for getting data. 
+The first task was to get the football scores. After a bit of looking for it, I stumbled across Joe Kampschmidt's [awesome curation](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) of all the source for getting data. 
 
 Since, I had no intention to pay for the API, I looked for the free ones. I tried both [openfooty API](http://www.footytube.com/openfooty/) and [football-data API](http://api.football-data.org/index). Openfooty API had a stale community and it was hard to get an API key. football-data API on the other hand, had a good documentation, easy to get an API key and scores were updated fast enough to match my needs. So, I went ahead with it.
 
