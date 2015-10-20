@@ -3,6 +3,9 @@ layout: post
 title: Soccer CLI - How a simple CLI app went viral
 comments: True
 permalink: viral-cli-app
+desc: "Command line interface for all football scores. It's football for hackers"
+image: "http://i.imgur.com/gJVJE0V.png"
+keywords: "cli, linux, python, football, soccer, open source, Archit Verma, app"
 ---
 
 <img src="http://i.imgur.com/gJVJE0V.png?1" alt="trending image" style="width:100%;height:auto;">
