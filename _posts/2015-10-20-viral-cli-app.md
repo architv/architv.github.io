@@ -66,3 +66,5 @@ Since the tool was entirely command line, I needed an easy way to get and parse 
 Doing all this has been fun. I have learnt a lot more about python through various pull requests. Open source is awesome, you get to learn new concepts and apply them. 
 
 The rewards are amazing, seeing people love what I made and talk about it, makes me extremely happy and proud.
+
+{% include twitter_plug.html %}
