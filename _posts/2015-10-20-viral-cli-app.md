@@ -38,7 +38,7 @@ It's been more than a month since I "launched" soccer cli and it got:
 <blockquote class="twitter-tweet" lang="en"><p lang="es" dir="ltr">sudo pip install soccer-cli; soccer --league=LLIGA. Aun hay gente que sabe hacer programas DE VERDAD.</p>&mdash; Raul Herranz (@rahego_) <a href="https://twitter.com/rahego_/status/639714442759008256">September 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Translation: sudo pip install soccer-cli; soccer - league = League. There are still people who know how to REALLY program.**
+*Translation: sudo pip install soccer-cli; soccer - league = League. There are still people who know how to REALLY program.*
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Soccer scores for hackers. Awesome. architv/soccer-cli · GitHub <a href="http://t.co/jXWKrmf66T">http://t.co/jXWKrmf66T</a></p>&mdash; Bill Horvath II (@billhorvath) <a href="https://twitter.com/billhorvath/status/642686647398723584">September 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
