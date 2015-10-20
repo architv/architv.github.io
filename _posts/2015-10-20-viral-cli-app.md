@@ -14,7 +14,7 @@ Sunday evening, I am working on my laptop while Barclays Premier League commenta
 
 Since the work has to be done urgently, I switch off the TV. But now, I am constantly switching between my terminal and browser to check the scores, after all it's Manchester United who is playing.
 
-This has happened to me dozens of time and every time I wish I didn't have to leave my terminal to check the scores. As a developer, my job is to find the solution. It was then the idea of soccer cli came to me.
+This has happened to me dozens of time and every time I wish I didn't have to leave my terminal to check the scores. As a developer, my job is to find the solution. It was then the idea of [soccer-cli](https://github.com/architv/soccer-cli) came to me.
 
 ### A month and dozens of pull requests later:
 
