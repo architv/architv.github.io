@@ -42,7 +42,7 @@ The plan was not to create the next trending repo (even if it were, it would hav
 
 ## How?
 
-There were basic things which were used to create soccer-cli:
+There were three basic things which were used to create soccer-cli:
 
 __Football API__
 
