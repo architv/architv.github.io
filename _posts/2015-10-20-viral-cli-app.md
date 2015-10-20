@@ -26,14 +26,23 @@ It's been more than a month since I "launched" soccer cli and it got:
 - Many more happy and productive football fans
 
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/architv07">@architv07</a> I love your soccer-cli 😂 found on <a href="https://twitter.com/githuntio">@githuntio</a></p>&mdash; EGOIST (@egoistgogo) <a href="https://twitter.com/egoistgogo/status/640824213696155648">September 7, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">One of the geekiest things I&#39;ve ever seen...and it&#39;s awesome! <a href="https://t.co/LiEuKRd5Yx">https://t.co/LiEuKRd5Yx</a></p>&mdash; Oliver Roick (@oliverroick) <a href="https://twitter.com/oliverroick/status/639505433334558722">September 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/architv07">@architv07</a> saw your soccer-cli software in GitHub. Interesting. Congratulations! How I can help you add LigaMX support?</p>&mdash; Guillermo Sanchez (@gsanchez1982) <a href="https://twitter.com/gsanchez1982/status/639291703581503488">September 3, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Soccer scores from the command line. Brilliant.&#10;<a href="https://t.co/vzloPoQsRC">https://t.co/vzloPoQsRC</a></p>&mdash; Jon Crowell (@jonrcrowell) <a href="https://twitter.com/jonrcrowell/status/639102520648822784">September 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/architv07">@architv07</a> <a href="https://twitter.com/github">@github</a> Awesome Stuff !👍</p>&mdash; Mohammed Faizan (@faizan_ke) <a href="https://twitter.com/faizan_ke/status/640115452170125312">September 5, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">This open source command-line interface for soccer scores is pretty cool: <a href="http://t.co/ibMJsinORe">http://t.co/ibMJsinORe</a> <a href="http://t.co/Pxs7cwd5Nv">pic.twitter.com/Pxs7cwd5Nv</a></p>&mdash; Alex Sanchez (@_alxsanchez) <a href="https://twitter.com/_alxsanchez/status/639519993110073344">September 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="es" dir="ltr">sudo pip install soccer-cli; soccer --league=LLIGA. Aun hay gente que sabe hacer programas DE VERDAD.</p>&mdash; Raul Herranz (@rahego_) <a href="https://twitter.com/rahego_/status/639714442759008256">September 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Translation: sudo pip install soccer-cli; soccer - league = League. There are still people who know how to REALLY program.**
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Soccer scores for hackers. Awesome. architv/soccer-cli · GitHub <a href="http://t.co/jXWKrmf66T">http://t.co/jXWKrmf66T</a></p>&mdash; Bill Horvath II (@billhorvath) <a href="https://twitter.com/billhorvath/status/642686647398723584">September 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 It even made it's way to [Pycoders weekly newsletter](http://pycoders.com/)
 ![newsletter image](http://i.imgur.com/zAcafAK.png)
