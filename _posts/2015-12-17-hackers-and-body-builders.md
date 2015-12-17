@@ -8,7 +8,7 @@ permalink: hackers-and-body-builders
 keywords: "programming, computers, software engineering, open source, competitive programming, codechef, topcoder, github, hackers"
 ---
 
-More than two years back, when I took the first step towards programming in college, I noticed that the programming community in my college was bifurcated amongst competitive programmers, the people who preferred calling each other by their [codechef](https://codechef.com) and [spoj](http://spoj.com) handles instead of their real names and hackers, some of whom were known for getting selected for the prestigious [Google Summer of Code](https://www.google-melange.com/). (Very few were a part of both the groups).<!--more-->
+More than two years back, I took the first step towards programming in college. I noticed that the programming community in my college was bifurcated amongst competitive programmers, the people who preferred calling each other by their [codechef](https://codechef.com) and [spoj](http://spoj.com) handles instead of their real names and hackers, some of whom were known for getting selected for the prestigious [Google Summer of Code](https://www.google-melange.com/). (Very few were a part of both the groups).<!--more-->
 
 ## Two communities
 
