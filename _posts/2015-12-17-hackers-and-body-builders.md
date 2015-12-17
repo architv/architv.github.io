@@ -3,7 +3,7 @@ layout: post
 title: Hackers and Body Builders
 comments: True
 desc: My experience with programming in college
-image: http://i.imgur.com/n51oOAJ.jpg?1
+image: http://i.imgur.com/n51oOAJ.jpg
 permalink: hackers-and-body-builders
 keywords: "programming, computers, software engineering, open source, competitive programming, codechef, topcoder, github, hackers"
 ---
