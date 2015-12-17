@@ -58,6 +58,8 @@ A lot of competitive programmers still disregard actual software development. Su
 
 Programming contests let you demonstrate that you're smart and able to think quickly. Real life programming lets you demonstrate that you're able to build things. Both are desirable.
 
+<br><br>
+Thanks to Arnav Gupta and Chirrag Nangia for reading draft of this.
 ***
 
 {% include twitter_plug.html %}
