@@ -14,13 +14,13 @@ More than two years back, when I took the first step towards programming in coll
 
 DCE Coders, a self interest group of college with the aim of sending more teams to [ACM-ICPC](https://icpc.baylor.edu/), had many of its core members getting high paying jobs in bigwigs like Amazon and Google. Thus, it had become synonymous with high salary placemnets. Soon, they had more students attend their classes than they could handle. Many students had no idea of what it stood for and were there either for clearing interview rounds of companies or just because their friends were there.
 
-<center><a href="https://imgflip.com/i/vw1q7"><img src="https://i.imgflip.com/vw1q7.jpg" title="made at imgflip.com" style="width:100%;height:auto;"/></a></center>
+<center><a href="https://imgflip.com/i/vw1q7"><img src="https://i.imgflip.com/vw1q7.jpg" title="made at imgflip.com" style="width:100%;height:auto;"></a></center>
 
 On the other hand it was hard to find a fellow hacker to work with. I remember my struggles to find a partner for participating in [Google Cloud Developer Challenge](http://googlecloudplatform.blogspot.in/2014/01/announcing-the-google-cloud-platform-developer-challenge-2013-winners.html). Many people refused to participate citing that they were focusing on "coding". 
 
 Software development according to many was limited to web development which also only consisted of HTML, CSS and PHP. They believed that these skills were easy to attain and could be learned over a couple of days.
 
-<center><a href="https://imgflip.com/i/vwur0"><img src="https://i.imgflip.com/vwur0.jpg" title="made at imgflip.com" style="width:100%;height:auto;"/></a></center>
+<center><a href="https://imgflip.com/i/vwur0"><img src="https://i.imgflip.com/vwur0.jpg" title="made at imgflip.com" style="width:100%;height:auto;"></a></center>
 
 I was never a fan of competitive programming, and seeing the culture build up was a little sad. (Thanks to Arnav Gupta for starting the OSS sig and help bring back the hacker culture).
 
@@ -52,7 +52,7 @@ Competitive programmers are like the former category, big, strong, heavy but don
 
 ## Why this rant
 
-<center><a href="https://imgflip.com/i/vw2ja"><img src="https://i.imgflip.com/vw2ja.jpg" title="made at imgflip.com" style="width:100%;height:auto;"/></a></center>
+<center><a href="https://imgflip.com/i/vw2ja"><img src="https://i.imgflip.com/vw2ja.jpg" title="made at imgflip.com" style="width:100%;height:auto;"></a></center>
 
 A lot of competitive programmers still disregard actual software development. Sure, it is more fun and interesting for some but at the same time it is necessary to have skill more transferable to tasks on the job. 
 
