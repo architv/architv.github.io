@@ -12,7 +12,7 @@ More than two years back, when I took the first step towards programming in coll
 
 ## Two communities
 
-DCE Coders, a self interest group of college with the aim of sending more teams to [ACM-ICPC](https://icpc.baylor.edu/), had many of its core members getting high paying jobs in bigwigs like Amazon and Google. Thus, it had become synonymous with high salary placemnets. Soon, they had more students attend their classes than they could handle. Many students had no idea of what it stood for and were there either for clearing interview rounds of companies or just because their friends were there.
+DCE Coders, a self interest group of college with the aim of sending more teams to [ACM-ICPC](https://icpc.baylor.edu/), had many of its core members get high paying jobs in bigwigs like Amazon and Google. Thus, it had become synonymous with high salary placements. Soon, they had more students attend their classes than they could handle. Many students had no idea of what it stood for and were there either for clearing interview rounds of companies or just because their friends were there.
 
 <center><img src="https://i.imgflip.com/vw1q7.jpg" title="made at imgflip.com" style="width:100%;height:auto;"></center>
 
