@@ -22,7 +22,7 @@ Software development according to many was limited to web development which also
 
 <center><img src="https://i.imgflip.com/vwur0.jpg" title="made at imgflip.com" style="width:100%;height:auto;"></center>
 
-I was never a fan of competitive programming, and seeing the culture build up was a little sad. (Thanks to Arnav Gupta for starting the OSS sig and help bring back the hacker culture).
+I was never a fan of competitive programming, and seeing the culture build up was a little sad.
 
 Is software development really so simple? Can anyone become a good hacker in a short time? The answer is a big NO. But not many people understand this.
 
