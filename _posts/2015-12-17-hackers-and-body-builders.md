@@ -54,7 +54,7 @@ Competitive programmers are like the former category, big, strong, heavy but don
 
 <center><img src="https://i.imgflip.com/vw2ja.jpg" title="made at imgflip.com" style="width:100%;height:auto;"></center>
 
-A lot of competitive programmers still disregard actual software development. Sure, it is more fun and interesting for some but at the same time it is necessary to have skill more transferable to tasks on the job. 
+A lot of competitive programmers still disregard actual software development. Sure, competitive programming is more fun and interesting for some but at the same time it is necessary to have skill more transferable to tasks on the job. 
 
 Programming contests let you demonstrate that you're smart and able to think quickly. Real life programming lets you demonstrate that you're able to build things. Both are desirable.
 
